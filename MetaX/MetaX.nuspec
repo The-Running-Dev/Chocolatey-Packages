@@ -6,9 +6,6 @@
     <title>MetaX</title>
     <authors>Knowledge Design Software</authors>
     <projectUrl>http://danhinsley.com/metax/metax.html</projectUrl>
-    <licenseUrl></licenseUrl>
-    <iconUrl></iconUrl>
-    <docsUrl></docsUrl>
     <summary>Tag Your Movies To Look Perfect in iTunes, Apple TV or other Media Players</summary>
     <tags>metax tagging video admin trial</tags>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
@@ -33,7 +30,7 @@
     - Find Great Cover Art
     </description>
     <copyright>Copyright © 2017 Knowledge Design Software</copyright>
-    <packageSourceUrl></packageSourceUrl>
+    <packageSourceUrl>https://github.com/The-Running-Dev/chocolatey-packages/tree/master/MetaX</packageSourceUrl>
     <owners>the-running-dev</owners>
     <dependencies>
       <dependency id="chocolatey-core.extension" version="1.2.0" />
