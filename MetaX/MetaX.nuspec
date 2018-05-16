@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
-    <id>MetaX</id>
-    <version>2.57</version>
+    <id>metax</id>
+    <version>2.66</version>
     <title>MetaX</title>
     <authors>Knowledge Design Software</authors>
     <projectUrl>http://danhinsley.com/metax/metax.html</projectUrl>
@@ -10,24 +10,24 @@
     <tags>metax tagging video admin trial</tags>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>
-    Tag Your Movies To Look Perfect in iTunes, Apple TV or other Media Players.
+Tag Your Movies To Look Perfect in iTunes, Apple TV or other Media Players.
 
-    With only a mouse click or two, MetaX will scour all the major sources of movie
-    and TV information on the web: TVDB, TheMovieDB, iTunes as well as IMDB and
-    Yahoo posters and display the information. You can select from multiple entries
-    to get just the look you want, then quickly write the tags into the file so that
-    it shows up in iTunes, Apple TV or whatever media play you use, just like it would
-    if you had purchased the movie from iTunes.
-    MetaX supports MP4, M4V, MOV, AVI, MKV and WMV files.
-    Not all formats support all tags. AVI files in particular don't support most tags,
-    including not supporting cover art.
+With only a mouse click or two, MetaX will scour all the major sources of movie
+and TV information on the web: TVDB, TheMovieDB, iTunes as well as IMDB and
+Yahoo posters and display the information. You can select from multiple entries
+to get just the look you want, then quickly write the tags into the file so that
+it shows up in iTunes, Apple TV or whatever media play you use, just like it would
+if you had purchased the movie from iTunes.
+MetaX supports MP4, M4V, MOV, AVI, MKV and WMV files.
+Not all formats support all tags. AVI files in particular don't support most tags,
+including not supporting cover art.
 
-    ## Features
-    - Great for TV Shows
-    - Set Ratings for Parental Control
-    - Easy To Customize
-    - Import data from MyMovies or other XML files
-    - Find Great Cover Art
+## Features
+- Great for TV Shows
+- Set Ratings for Parental Control
+- Easy To Customize
+- Import data from MyMovies or other XML files
+- Find Great Cover Art
     </description>
     <copyright>Copyright © 2017 Knowledge Design Software</copyright>
     <packageSourceUrl>https://github.com/The-Running-Dev/chocolatey-packages/tree/master/MetaX</packageSourceUrl>
